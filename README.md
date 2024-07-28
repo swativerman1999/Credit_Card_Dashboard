@@ -1,5 +1,5 @@
 # Credit_Card_Dashboard
-Power BI Dashboard on credit card data to increase salles.
+Power BI Dashboard on credit card data to increase sales.
 
 Project Objective:-
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, 
